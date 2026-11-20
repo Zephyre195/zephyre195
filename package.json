@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "remotion": "remotion",
-    "hyperframes": "hyperframes"
+    "hyperframes": "hyperframes",
+    "render:surfing": "remotion render video/index.ts Surfing out/surfing.mp4",
+    "studio": "remotion studio video/index.ts"
   },
   "devDependencies": {
     "@remotion/cli": "^4.0.545",
