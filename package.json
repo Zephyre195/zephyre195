@@ -1,0 +1,16 @@
+{
+  "name": "zephyre195",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "remotion": "remotion",
+    "hyperframes": "hyperframes"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.545",
+    "hyperframes": "^0.9.72",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.545"
+  }
+}
